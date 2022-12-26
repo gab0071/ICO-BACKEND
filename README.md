@@ -45,10 +45,10 @@ The frontend code you can find it <a href="https://github.com/catherinee24/LW3-I
 
 ```bash
 # Clone this project
-$ git clone https://github.com/catherinee24/ICO-BACK
+$ git clone https://github.com/gab0071/ICO-BACKEND
 
 # Access
-$ cd ICO-BACK
+$ cd ICO-BACKEND
 
 # Install dependencies
 $ npm install
