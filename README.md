@@ -20,7 +20,7 @@
   <br>
   <br>
 
-This contract is an ERC20 token contract that allows users to mint (create and add to circulation) new tokens by sending a certain amount of Ether to the contract. It also has a function that allows users to claim tokens based on the number of non-fungible tokens <a href="https://github.com/catherinee24/NFT-Collection">(NFTs) </a>they own.
+This contract is an ERC20 token contract that allows users to mint (create and add to circulation) new tokens by sending a certain amount of Ether to the contract. It also has a function that allows users to claim tokens based on the number of non-fungible tokens <a href="https://github.com/gab0071/NFT-Collection">(NFTs) </a>they own.
 
 When a user calls the following functions the contract will do:
 
